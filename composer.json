@@ -2,6 +2,7 @@
     "require": {
         "bshaffer/oauth2-server-php": "v1.3",
         "pda/pheanstalk": "2.1.0",
+        "phpunit/phpunit": "3.7.24",
         "phing/phing": "2.*"
-    },
+    }
 }
