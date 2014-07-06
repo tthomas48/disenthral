@@ -1,0 +1,7 @@
+{
+    "require": {
+        "bshaffer/oauth2-server-php": "v1.3",
+        "pda/pheanstalk": "2.1.0",
+        "phing/phing": "2.*"
+    },
+}
